@@ -1,4 +1,4 @@
-## Cloud Architect, Developer & DevOps - Microservices, Serverless & Cloud Native Engineer
+## Cloud Architect, Full Stack Developer & DevOps - Microservices, Serverless & Cloud Native Engineer
 
 <a href="https://teopeurt.com" target="_blank" rel="noopener noreferrer">![Website](https://img.shields.io/badge/Website-inactive.svg?style=for-the-badge&logo=Windows%20Terminal)</a>
 <a href="https://www.linkedin.com/in/teopeurt" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-informational.svg?style=for-the-badge&logo=linkedin)</a>

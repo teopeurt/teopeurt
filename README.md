@@ -4,10 +4,8 @@
 <a href="https://www.linkedin.com/in/teopeurt" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LinkedIn-informational.svg?style=for-the-badge&logo=linkedin)</a>
 <a href="https://twitter.com/teopeurt" target="_blank" rel="noopener noreferrer">![Twitter](https://img.shields.io/badge/Twitter-9cf.svg?style=for-the-badge&logo=Twitter)</a>
 
-Being in the founding scheme of companies in the past has allowed me to refine excellent leadership skills and to understand what challenges businesses face. 
+A Web and Mobile Solution Architect with decades of experience in full-lifecycle software development and delivery, from start-ups to large enterprises.
 
-I implemented new ideas in both start-ups and well-branded companies and managed projects and teams in R&D and production.
+Deep understanding of regulation, policy and industry initiatives with insight to key opportunities and challenges each faces.
 
-I am an advocate of agile methodologies who also loves coding, designing solution architectures, automating activities, building great products and helping businesses to succeed. 
-
-I enjoy teaching, specifically design patterns and best practices. I am a strong believer of the power of positive thinking and enjoy discussing the latest technologies and trends.
+I have a special interest in language design, functional programming and AI/ML architectures.
